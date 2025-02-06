@@ -60,10 +60,8 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect!  
 I'm always open to collaborating on exciting projects or discussing tech. Feel free to reach out:  
-- **Email**: [keraamzabih@gmail.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Zabih Keraam](https://www.linkedin.com/in/zabih-keraam)  
-- **GitHub**: [zabih-keraam](https://github.com/zabih-keraam)  
-- **Twitter**: [@zabih_keraam](https://twitter.com/zabih_keraam)  
+- **Email**: [keraamzabih@gmail.com](mailto:keraamzabih@gmail.com)  
+- **LinkedIn**: [Zabih Keraam](https://af.linkedin.com/in/zabih-keraam)  
 
 ---
 
