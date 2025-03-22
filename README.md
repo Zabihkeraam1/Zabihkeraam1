@@ -83,11 +83,11 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Zabihkeraam1/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=project-name-1&theme=tokyonight" />
+  <a href="https://github.com/Zabihkeraam1/KCWebsiteFrontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=KCWebsiteFrontend&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Zabihkeraam1/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=project-name-2&theme=tokyonight" />
+  <a href="https://github.com/Zabihkeraam1/KCWebsiteFrontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=KCWebsiteFrontend&theme=tokyonight" />
   </a>
 </div>
 
@@ -98,17 +98,17 @@
   ### Project Name 1
   A brief description of the project. Explain what technologies you used and what problems you solved.
   
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/project-name-1)
+  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/KCWebsiteFrontend)
   
   ### Project Name 2
   A brief description of the project. Explain what technologies you used and what problems you solved.
   
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/project-name-2)
+  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/KCWebsiteFrontend)
   
   ### Project Name 3
   A brief description of the project. Explain what technologies you used and what problems you solved.
   
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/project-name-3)
+  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/KCWebsiteFrontend)
 </details>
 
 ## 📚 Currently Learning
