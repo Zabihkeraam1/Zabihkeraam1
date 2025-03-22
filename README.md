@@ -72,22 +72,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zabih-keraam&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabih-keraam&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zabih-keraam&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/zabih-keraam/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zabih-keraam&repo=project-name-1&theme=tokyonight" />
+  <a href="https://github.com/Zabihkeraam1/project-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=project-name-1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zabih-keraam/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zabih-keraam&repo=project-name-2&theme=tokyonight" />
+  <a href="https://github.com/Zabihkeraam1/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=project-name-2&theme=tokyonight" />
   </a>
 </div>
 
@@ -98,17 +98,17 @@
   ### Project Name 1
   A brief description of the project. Explain what technologies you used and what problems you solved.
   
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/zabih-keraam/project-name-1)
+  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/project-name-1)
   
   ### Project Name 2
   A brief description of the project. Explain what technologies you used and what problems you solved.
   
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/zabih-keraam/project-name-2)
+  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/project-name-2)
   
   ### Project Name 3
   A brief description of the project. Explain what technologies you used and what problems you solved.
   
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/zabih-keraam/project-name-3)
+  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/project-name-3)
 </details>
 
 ## 📚 Currently Learning
