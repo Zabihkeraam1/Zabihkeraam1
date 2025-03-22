@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+Developer;Problem+Solver;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;Problem+Solver;Continuous+Learner" />
 </h1>
 
 <div align="center">
   <p>🎓 B.Sc. in Computer Science @ Kabul Polytechnic University, Afghanistan</p>
-  <p>💻 Passionate Fullstack Developer | Creating bugs since 2020 (and fixing them too!)</p>
-  <p>🚀 Building the web, one line of code at a time</p>
+  <p>💻 Passionate Fullstack & DevOps Engineer | Creating bugs since 2020 (and fixing them too!)</p>
+  <p>🚀 Building and deploying the web, one line of code at a time</p>
 </div>
 
 <div align="center">
@@ -30,6 +30,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+- 🛠️ **DevOps Engineer** specializing in CI/CD pipelines, infrastructure automation, and cloud solutions
 - 🌱 Currently learning **Motion Design for the Web**, **Vistad**, and exploring new frontiers in web development
 - 🎯 **Goals**: To become a leading innovator in tech while keeping my sense of humor intact
 - 💡 I enjoy solving complex problems and turning ideas into reality
@@ -42,6 +43,19 @@
 ## 💻 Tech Stack
 
 <div align="center">
+  <h3>DevOps & Cloud</h3>
+  <p>
+    <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
+    <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/></a>
+    <a href="https://terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/></a>
+    <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/></a>
+    <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a>
+    <a href="https://www.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/></a>
+    <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="40" height="40"/></a>
+    <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40"/></a>
+  </p>
+
   <h3>Frontend</h3>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
@@ -66,6 +80,8 @@
     <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
     <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" height="40"/></a>
     <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
+    <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
   </p>
 </div>
 
@@ -80,22 +96,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-
 ## 📚 Currently Learning
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/devops.png" width="48" height="48" alt="DevOps"/>
-        <br>DevOps
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Advanced Kubernetes"/>
+        <br>Advanced Kubernetes
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/animation.png" width="48" height="48" alt="Motion Design"/>
-        <br>Motion Design for Web
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="GitOps with ArgoCD"/>
+        <br>GitOps with ArgoCD
       </td>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="Advanced React"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="Advanced React"/>
         <br>Advanced React Patterns
       </td>
     </tr>
@@ -104,15 +119,16 @@
 
 ## 🎯 Goals for 2025
 
-- 🌐 Contribute to **open-source projects**
-- 🔍 Build a **personal brand** in the tech community
-- 🚀 Master **backend development** with Node.js and Express.js
-- 🛠️ Learn **DevOps** basics to streamline deployment processes
+- 🌐 Contribute to **open-source DevOps tools and projects**
+- 🔍 Build a **personal brand** in the DevOps and cloud community
+- 🚀 Master **Kubernetes** and cloud-native technologies
+- 🛠️ Achieve **AWS certifications** and expand cloud expertise
+- 💻 Combine DevOps and fullstack skills to build **end-to-end solutions**
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to collaborating on exciting projects or discussing tech. Feel free to reach out!</p>
+  <p>I'm always open to collaborating on exciting projects or discussing DevOps and web development. Feel free to reach out!</p>
   
   <a href="mailto:keraamzabih@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
