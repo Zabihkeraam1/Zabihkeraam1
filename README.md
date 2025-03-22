@@ -80,36 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Zabihkeraam1/KCWebsiteFrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=KCWebsiteFrontend&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Zabihkeraam1/KCWebsiteFrontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zabihkeraam1&repo=KCWebsiteFrontend&theme=tokyonight" />
-  </a>
-</div>
-
-<details>
-  <summary>📚 More Projects</summary>
-  <br>
-  
-  ### Project Name 1
-  A brief description of the project. Explain what technologies you used and what problems you solved.
-  
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/KCWebsiteFrontend)
-  
-  ### Project Name 2
-  A brief description of the project. Explain what technologies you used and what problems you solved.
-  
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/KCWebsiteFrontend)
-  
-  ### Project Name 3
-  A brief description of the project. Explain what technologies you used and what problems you solved.
-  
-  [Live Demo](https://example.com) | [GitHub Repository](https://github.com/Zabihkeraam1/KCWebsiteFrontend)
-</details>
 
 ## 📚 Currently Learning
 
