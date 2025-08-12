@@ -3,172 +3,201 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Senior+Fullstack+Engineer;DevOps+Specialist;Cloud+Architecture+Enthusiast" />
 </h1>
 
 <div align="center">
-  <p>🎓 B.Sc. in Computer Science @ Kabul Polytechnic University, Afghanistan</p>
-  <p>💻 Passionate Fullstack & DevOps Engineer | Creating bugs since 2020 (and fixing them too!)</p>
-  <p>🚀 Building and deploying the web, one line of code at a time</p>
+  <p>🎓 B.Sc. Computer Science | Kabul Polytechnic University</p>
+  <p>💼 Professional Experience: 4+ Years in Fullstack Development & DevOps</p>
+  <p>🌐 Cloud-Native Solutions Architect | CI/CD Pipeline Expert</p>
 </div>
 
 <div align="center">
   <a href="mailto:keraamzabih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-keraamzabih@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-keraamzabih@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://af.linkedin.com/in/zabih-keraam">
-    <img src="https://img.shields.io/badge/LinkedIn-Zabih_Keraam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Zabih_Keraam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://zabih-keraam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-zabih--keraam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Professional_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zabihkeraam1?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View_My_Work-6e5494?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
----
+## 🚀 Professional Profile
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+Results-driven **Fullstack Engineer** and **DevOps Specialist** with extensive experience in designing, implementing, and maintaining scalable cloud-native applications and infrastructure. Passionate about optimizing development workflows through CI/CD automation and infrastructure-as-code.
 
-- 🔧 **DevOps Engineer** focused on CI/CD, infrastructure-as-code, and cloud-native solutions  
-- 🌱 Expanding into **Motion Design for the Web**, **Vistad**, and advanced frontend frameworks  
-- 🎯 Passionate about **innovation, automation, and scalable architecture**  
-- 💡 Problem-solver who turns complex ideas into clean, efficient code  
-- 🌍 Based in Afghanistan, building solutions for a global audience  
-- ☕ **Fun fact**: I debug faster with a cup of strong Afghan coffee  
+**Core Competencies:**
+- ☁️ Cloud Architecture (AWS, GCP)
+- 🛠️ Infrastructure as Code (Terraform, Ansible)
+- 🔄 CI/CD Pipeline Design & Implementation
+- 🐳 Containerization & Orchestration (Docker, Kubernetes)
+- 🚀 Fullstack Development (React, Node.js, TypeScript)
+- 📊 Monitoring & Observability (Prometheus, Grafana)
 
-<br clear="right"/>
+**Professional Philosophy:**  
+*"Building resilient systems that scale elegantly while maintaining developer productivity and operational efficiency."*
 
----
+<br/>
+<br/>
 
-## 💼 Tech Stack
+## 💻 Technical Expertise
 
-### 🛠️ DevOps & Cloud
-<div align="left">
-  <p>
-    <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
-    <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/></a>
-    <a href="https://terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/></a>
-    <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/></a>
-    <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a>
-    <a href="https://www.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/></a>
-    <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="40" height="40"/></a>
-    <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40"/></a>
-  </p>
+<div align="center">
+  
+### **Cloud & DevOps Stack**
+  
+| Category       | Technologies                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **Cloud**      | AWS (EC2, S3, Lambda, EKS), GCP, Azure Fundamentals                        |
+| **IaC**        | Terraform, CloudFormation, Pulumi                                          |
+| **CI/CD**      | Jenkins, GitHub Actions, ArgoCD, CircleCI                                  |
+| **Containers** | Docker, Kubernetes, Helm, Istio                                            |
+| **Monitoring** | Prometheus, Grafana, ELK Stack, Datadog                                    |
+| **Config Mgmt**| Ansible, Chef, Puppet                                                      |
+
+### **Development Stack**
+  
+| Category       | Technologies                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **Frontend**   | React, Next.js, TypeScript, TailwindCSS, Redux                             |
+| **Backend**    | Node.js, Express, NestJS, Python (Django, Flask)                           |
+| **Databases**  | MongoDB, PostgreSQL, MySQL, Redis                                          |
+| **Mobile**     | React Native (Expo)                                                        |
+| **Testing**    | Jest, Cypress, Selenium, Mocha/Chai                                        |
+
 </div>
 
-### 🖥️ Frontend
-<div align="left">
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
-  </p>
-</div>
+<br/>
 
-### ⚙️ Backend
-<div align="left">
-  <p>
-    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
-    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
-  </p>
-</div>
+## 🏆 Professional Achievements
 
-### 🧰 Tools & Platforms
-<div align="left">
-  <p>
-    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
-    <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" height="40"/></a>
-    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
-    <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
-  </p>
-</div>
+- **Infrastructure Optimization**: Reduced cloud costs by 40% through right-sizing and auto-scaling implementations
+- **CI/CD Implementation**: Designed and deployed a GitOps workflow reducing deployment times by 75%
+- **Kubernetes Migration**: Led migration of legacy systems to Kubernetes, improving scalability and uptime
+- **Security Enhancements**: Implemented comprehensive security scanning in CI pipeline, reducing vulnerabilities by 90%
 
----
+<br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zabihkeraam1&theme=github_dark" alt="Profile Details" width="100%"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" height="180" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=radical" alt="GitHub Streak" width="100%"/>
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Zabihkeraam1&theme=onedark&row=2&column=4" alt="GitHub Trophies" width="100%"/>
 </div>
 
+<br/>
+
+## 🛠️ Recent Projects
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **Cloud Migration Framework** | Automated migration toolkit for legacy systems to Kubernetes | Terraform, Ansible, Kubernetes | [GitHub](https://github.com/example) |
+| **DevSecOps Pipeline** | Integrated security scanning in CI/CD workflow | Jenkins, SonarQube, Trivy | [GitHub](https://github.com/example) |
+| **Microservices Dashboard** | Monitoring solution for distributed systems | React, Node.js, Prometheus | [Live Demo](https://example.com) |
+  
 </div>
 
-<details>
-  <summary>📊 Expand for More Stats</summary>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zabihkeraam1&theme=tokyonight" />
-  </p>
-</details>
+<br/>
 
----
-
-## 📚 Currently Learning
+## 📚 Continuous Learning
 
 <div align="center">
+  <h3>Currently Mastering</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="K8s"/>
+        <br>Kubernetes<br>Certification
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
+        <br>AWS Solutions<br>Architect
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
+        <br>Go Programming<br>for DevOps
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust"/>
+        <br>Rust for<br>Systems Programming
+      </td>
+    </tr>
+  </table>
+  
+  <h3>Professional Certifications</h3>
+  
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Advanced Kubernetes"/>
-        <br><sub><b>Advanced Kubernetes</b></sub>
+        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="48" height="48" alt="CKAD"/>
+        <br>CKAD (In Progress)
       </td>
       <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="GitOps with ArgoCD"/>
-        <br><sub><b>GitOps with ArgoCD</b></sub>
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="48" height="48" alt="AWS"/>
+        <br>AWS Certified (Target)
       </td>
       <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="Advanced React"/>
-        <br><sub><b>Advanced React Patterns</b></sub>
+        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="48" height="48" alt="Terraform"/>
+        <br>Terraform Certified
       </td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-## 🎯 2025 Goals
+## 🎯 2025 Professional Goals
 
-- 🌐 Contribute to **open-source DevOps tools** (e.g., Kubernetes, ArgoCD, Terraform)
-- 🔍 Build a **recognized personal brand** in the DevOps & cloud community
-- 🚀 Master **Kubernetes** and **cloud-native ecosystems**
-- 🛠️ Earn **AWS certifications** (e.g., AWS Certified DevOps Engineer)
-- 💻 Deliver **end-to-end fullstack applications** with robust CI/CD pipelines
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  <p>I'm always open to collaborating on exciting projects, discussing DevOps best practices, or mentoring aspiring engineers.</p>
-  
-  <a href="mailto:keraamzabih@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://af.linkedin.com/in/zabih-keraam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/zabih_keraam">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
+- [ ] Achieve **Certified Kubernetes Administrator (CKA)** certification
+- [ ] Publish **technical articles** on DevOps best practices (Target: 12 articles)
+- [ ] Contribute to **3+ open-source** DevOps tools
+- [ ] Develop **cloud cost optimization** framework
+- [ ] Mentor **junior engineers** in DevOps practices
 
 <br/>
 
+## 📫 Professional Contact
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <p>For collaboration opportunities, consulting inquiries, or technical discussions:</p>
+  
+  <a href="mailto:keraamzabih@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://af.linkedin.com/in/zabih-keraam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://calendly.com/your-link">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendly"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=blueviolet&style=flat-square&label=Professional+Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
