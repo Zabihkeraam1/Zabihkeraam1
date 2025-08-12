@@ -98,10 +98,6 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=radical" alt="GitHub Streak" width="100%"/>
-  
-  <br/>
-  
   <img src="https://github-profile-trophy.vercel.app/?username=Zabihkeraam1&theme=onedark&row=2&column=4" alt="GitHub Trophies" width="100%"/>
 </div>
 
