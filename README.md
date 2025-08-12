@@ -85,7 +85,6 @@
   </p>
 </div>
 
-## 📊 GitHub Stats
 ## 📊 GitHub Analytics
 
 <div align="center">
