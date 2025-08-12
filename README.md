@@ -1,208 +1,214 @@
+<!-- Header with animated gradient border -->
 <div align="center">
-
-\`\`\`
- ███████╗ █████╗ ██████╗ ██╗██╗  ██╗    ██╗  ██╗███████╗██████╗  █████╗  █████╗ ███╗   ███╗
- ╚══███╔╝██╔══██╗██╔══██╗██║██║  ██║    ██║ ██╔╝██╔════╝██╔══██╗██╔══██╗██╔══██╗████╗ ████║
-   ███╔╝ ███████║██████╔╝██║███████║    █████╔╝ █████╗  ██████╔╝███████║███████║██╔████╔██║
-  ███╔╝  ██╔══██║██╔══██╗██║██╔══██║    ██╔═██╗ ██╔══╝  ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║
- ███████╗██║  ██║██████╔╝██║██║  ██║    ██║  ██╗███████╗██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║
- ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-\`\`\`
-
-### *Engineering scalable systems from code to cloud* 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=DevOps+%26+Fullstack+Engineer;CI%2FCD+Pipeline+Architect;Cloud-Native+Solutions+Builder;API+Development+Specialist;Currently%3A+Mastering+Kubernetes+%26+FastAPI" alt="Dynamic Role Description" />
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zabih--keraam.netlify.app-0891b2?style=for-the-badge&logoColor=white)](https://zabih-keraam.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Zabih_Keraam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://af.linkedin.com/in/zabih-keraam)
-[![Email](https://img.shields.io/badge/📧_Email-keraamzabih@gmail.com-84cc16?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keraamzabih@gmail.com)
-
+  <img src="https://raw.githubusercontent.com/Zabihkeraam1/Zabihkeraam1/main/assets/header-gradient.svg" alt="header" width="100%"/>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Zabih+Keraam;Fullstack+%26+DevOps+Engineer;Cloud-Native+Solutions+Architect;Technical+Problem+Solver" alt="Typing Animation" />
+  </h1>
+  <img src="https://raw.githubusercontent.com/Zabihkeraam1/Zabihkeraam1/main/assets/divider-gradient.svg" alt="divider" width="100%"/>
 </div>
 
----
-
-## 🎯 **About Me — Career Narrative**
-
-I'm **Zabih Keraam**, a DevOps & Fullstack Engineer from Afghanistan with a **B.Sc. in Computer Science** from Kabul Polytechnic University. I specialize in **CI/CD pipelines, cloud-native architectures, and high-performance API development**. Currently exploring **Kubernetes orchestration, FastAPI microservices, and motion design** to create more interactive, resilient systems.
-
-> 💡 **Philosophy:** *"Great software isn't just about writing code—it's about building systems that scale, deploy seamlessly, and solve real problems."*
-
+<!-- Profile Summary Cards -->
 <div align="center">
-
-**🎓 Education:** B.Sc. Computer Science • **📍 Location:** Afghanistan • **💻 Experience:** 4+ Years • **☕ Debug Fuel:** Coffee
-
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zabihkeraam1&theme=github_dark&exclude=Jupyter+Notebook" alt="Languages Used" width="30%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zabihkeraam1&theme=github_dark&exclude=Jupyter+Notebook" alt="Most Commits" width="30%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zabihkeraam1&theme=github_dark" alt="GitHub Stats" width="30%"/>
+  </div>
 </div>
 
----
+<br/>
 
-## 🛠️ **Technical Skills Matrix**
-
+<!-- About Me Section with 3D Card Effect -->
 <div align="center">
-
-### **DevOps & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-Expert-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Proficient-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); max-width: 900px; margin: 0 auto;">
+    <h2 style="color: #58A6FF; border-bottom: 2px solid #30363D; padding-bottom: 10px;">🚀 Professional Profile</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
+      <div style="flex: 1; min-width: 300px;">
+        <p style="text-align: left; line-height: 1.8;">
+          <span style="color: #58A6FF;">✦</span> Computer Science graduate with 4+ years of hands-on experience in fullstack development and DevOps<br>
+          <span style="color: #58A6FF;">✦</span> Specialized in building scalable cloud-native applications and automating deployment pipelines<br>
+          <span style="color: #58A6FF;">✦</span> Passionate about optimizing development workflows through infrastructure-as-code and CI/CD best practices<br>
+          <span style="color: #58A6FF;">✦</span> Strong advocate for clean code principles and robust system architecture<br>
+          <span style="color: #58A6FF;">✦</span> Currently focused on mastering advanced Kubernetes patterns and distributed systems
+        </p>
+      </div>
+      <div style="flex: 1; min-width: 300px;">
+        <img src="https://raw.githubusercontent.com/Zabihkeraam1/Zabihkeraam1/main/assets/coding-animation.gif" alt="Coding Animation" style="border-radius: 10px; max-width: 100%;"/>
+      </div>
+    </div>
+  </div>
 </div>
 
----
+<br/>
 
-## 📈 **Career Timeline & Achievements**
-
-<table>
-<tr>
-<td width="20%" align="center"><strong>2024-Present</strong><br/><span style="color:#0891b2">●</span></td>
-<td width="80%">
-<strong>Senior DevOps Engineer</strong><br/>
-• Architected CI/CD pipelines reducing deployment time by 60%<br/>
-• Implemented Kubernetes clusters serving 10k+ daily users<br/>
-• Optimized cloud infrastructure costs by 40% through automation
-</td>
-</tr>
-<tr>
-<td align="center"><strong>2022-2024</strong><br/><span style="color:#84cc16">●</span></td>
-<td>
-<strong>Fullstack Developer</strong><br/>
-• Built scalable APIs handling 1M+ requests/day<br/>
-• Developed React applications with 99.9% uptime<br/>
-• Integrated payment systems and real-time features
-</td>
-</tr>
-<tr>
-<td align="center"><strong>2020-2022</strong><br/><span style="color:#4b5563">●</span></td>
-<td>
-<strong>Junior Developer</strong><br/>
-• Started journey in web development<br/>
-• Mastered JavaScript, React, and Node.js fundamentals<br/>
-• Contributed to open-source projects
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 **Current Learning Journey**
-
+<!-- Tech Stack with Animated Icons -->
 <div align="center">
-
-| 🔥 **Mastering** | 🚀 **Exploring** | 📚 **Planning** |
-|:---:|:---:|:---:|
-| Advanced Kubernetes | Motion Design for Web | AWS Certifications |
-| FastAPI Optimization | GitOps with ArgoCD | Microservices Architecture |
-| Container Orchestration | Cloud Security | System Design Patterns |
-
+  <h2 style="color: #58A6FF; border-bottom: 2px solid #30363D; padding-bottom: 10px; max-width: 900px; margin: 0 auto;">🛠️ Technical Stack</h2>
+  
+  <!-- DevOps & Cloud -->
+  <h3 align="left" style="color: #58A6FF; max-width: 900px; margin: 20px auto;">DevOps & Cloud</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; max-width: 900px; margin: 0 auto;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  </div>
+  
+  <!-- Development -->
+  <h3 align="left" style="color: #58A6FF; max-width: 900px; margin: 20px auto;">Development</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; max-width: 900px; margin: 0 auto;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  </div>
 </div>
 
----
+<br/>
 
-## 📊 **GitHub Analytics & Metrics**
-
+<!-- Experience & Projects -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=84cc16&text_color=4b5563&bg_color=00000000" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=4b5563&bg_color=00000000&langs_count=8" alt="Top Languages" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=transparent&hide_border=true&stroke=0891b2&ring=84cc16&fire=84cc16&currStreakLabel=4b5563&sideLabels=4b5563&currStreakNum=0891b2&sideNums=0891b2&dates=4b5563&background=00000000" alt="GitHub Streak" width="500"/>
-
-</div>
-
----
-
-## 🎯 **2025 Goals & Roadmap**
-
-<div align="center">
-
-\`\`\`mermaid
-graph LR
-    A[🌐 Open Source<br/>Contributions] --> B[🏗️ Personal Brand<br/>Building]
-    B --> C[☁️ AWS<br/>Certifications]
-    C --> D[🚀 End-to-End<br/>Solutions]
-    D --> E[⚡ High-Performance<br/>APIs]
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); max-width: 900px; margin: 0 auto;">
+    <h2 style="color: #58A6FF; border-bottom: 2px solid #30363D; padding-bottom: 10px;">💼 Professional Highlights</h2>
     
-    style A fill:#0891b2,stroke:#ffffff,color:#ffffff
-    style B fill:#84cc16,stroke:#ffffff,color:#000000
-    style C fill:#0891b2,stroke:#ffffff,color:#ffffff
-    style D fill:#84cc16,stroke:#ffffff,color:#000000
-    style E fill:#0891b2,stroke:#ffffff,color:#ffffff
-\`\`\`
-
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+      <!-- Project 1 -->
+      <div style="background: #161B22; border-radius: 10px; padding: 20px; flex: 1; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);">
+        <h3 style="color: #58A6FF;">Cloud Migration Framework</h3>
+        <p>Automated toolkit for legacy system migration to Kubernetes</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Terraform</span>
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Ansible</span>
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">K8s</span>
+        </div>
+      </div>
+      
+      <!-- Project 2 -->
+      <div style="background: #161B22; border-radius: 10px; padding: 20px; flex: 1; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);">
+        <h3 style="color: #58A6FF;">DevSecOps Pipeline</h3>
+        <p>Integrated security scanning in CI/CD workflow</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Jenkins</span>
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">SonarQube</span>
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Trivy</span>
+        </div>
+      </div>
+      
+      <!-- Project 3 -->
+      <div style="background: #161B22; border-radius: 10px; padding: 20px; flex: 1; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);">
+        <h3 style="color: #58A6FF;">Microservices Dashboard</h3>
+        <p>Monitoring solution for distributed systems</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">React</span>
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">FastAPI</span>
+          <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Prometheus</span>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-**Key Objectives:**
-- 🌐 **Open Source Impact:** Contribute to DevOps tools and cloud-native projects
-- 🔍 **Thought Leadership:** Build personal brand in DevOps and cloud community  
-- 🚀 **Technical Mastery:** Achieve Kubernetes CKA and AWS Solutions Architect certifications
-- 🛠️ **Innovation:** Develop end-to-end solutions combining DevOps and fullstack expertise
-- 💻 **Performance:** Build high-performance APIs serving millions of requests
+<br/>
 
----
-
-## 🤝 **Let's Connect & Collaborate**
-
+<!-- Certifications & Learning -->
 <div align="center">
-
-I'm passionate about **building scalable systems, mentoring developers, and contributing to the tech community**. Whether you're interested in **DevOps best practices, API architecture, or cloud-native solutions**, I'd love to connect!
-
-<table>
-<tr>
-<td align="center">
-<a href="mailto:keraamzabih@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-Direct_Contact-84cc16?style=for-the-badge&logoColor=white"/>
-</a>
-</td>
-<td align="center">
-<a href="https://af.linkedin.com/in/zabih-keraam">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://zabih-keraam.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-View_Projects-0891b2?style=for-the-badge&logoColor=white"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/Zabihkeraam1">
-<img src="https://img.shields.io/badge/⭐_GitHub-Follow_Journey-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
----
-
-**💡 Open to:** Freelance Projects • Technical Consulting • Mentorship • Open Source Collaboration
-
-<img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
+  <div style="max-width: 900px; margin: 0 auto;">
+    <h2 style="color: #58A6FF; border-bottom: 2px solid #30363D; padding-bottom: 10px;">📚 Continuous Learning</h2>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+      <!-- Certification Card -->
+      <div style="background: #0D1117; border-radius: 10px; padding: 20px; flex: 1; min-width: 280px; border: 1px solid #30363D;">
+        <h3 style="color: #58A6FF; display: flex; align-items: center; gap: 10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="24" height="24"/>
+          Kubernetes Certifications
+        </h3>
+        <ul style="text-align: left; padding-left: 20px;">
+          <li>Certified Kubernetes Administrator (CKA)</li>
+          <li>Certified Kubernetes Application Developer (CKAD)</li>
+        </ul>
+      </div>
+      
+      <!-- Learning Card -->
+      <div style="background: #0D1117; border-radius: 10px; padding: 20px; flex: 1; min-width: 280px; border: 1px solid #30363D;">
+        <h3 style="color: #58A6FF; display: flex; align-items: center; gap: 10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="24" height="24"/>
+          AWS Cloud
+        </h3>
+        <ul style="text-align: left; padding-left: 20px;">
+          <li>Solutions Architect Associate</li>
+          <li>DevOps Engineer Professional</li>
+        </ul>
+      </div>
+      
+      <!-- Technology Card -->
+      <div style="background: #0D1117; border-radius: 10px; padding: 20px; flex: 1; min-width: 280px; border: 1px solid #30363D;">
+        <h3 style="color: #58A6FF; display: flex; align-items: center; gap: 10px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="24" height="24"/>
+          Emerging Technologies
+        </h3>
+        <ul style="text-align: left; padding-left: 20px;">
+          <li>Go for Systems Programming</li>
+          <li>Rust for Performance-Critical Applications</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 
----
+<br/>
 
+<!-- Contact Section -->
 <div align="center">
-<sub>🚀 <strong>Built with passion for clean code and scalable systems</strong> • Last updated: December 2024</sub>
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); max-width: 900px; margin: 0 auto;">
+    <h2 style="color: #58A6FF; border-bottom: 2px solid #30363D; padding-bottom: 10px;">📫 Let's Collaborate</h2>
+    
+    <p style="margin-bottom: 20px;">Interested in discussing technology, potential collaborations, or just want to connect?</p>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+      <a href="mailto:keraamzabih@gmail.com" style="text-decoration: none;">
+        <div style="display: flex; align-items: center; gap: 8px; background: #1F6FEB; padding: 10px 20px; border-radius: 6px; color: white;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="20" height="20"/>
+          Email Me
+        </div>
+      </a>
+      
+      <a href="https://af.linkedin.com/in/zabih-keraam" style="text-decoration: none;">
+        <div style="display: flex; align-items: center; gap: 8px; background: #0A66C2; padding: 10px 20px; border-radius: 6px; color: white;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>
+          LinkedIn
+        </div>
+      </a>
+      
+      <a href="https://zabih-keraam.netlify.app/" style="text-decoration: none;">
+        <div style="display: flex; align-items: center; gap: 8px; background: #00C7B7; padding: 10px 20px; border-radius: 6px; color: white;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="20" height="20"/>
+          Portfolio
+        </div>
+      </a>
+      
+      <a href="https://github.com/Zabihkeraam1" style="text-decoration: none;">
+        <div style="display: flex; align-items: center; gap: 8px; background: #333; padding: 10px 20px; border-radius: 6px; color: white;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/>
+          GitHub
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zabihkeraam1/Zabihkeraam1/main/assets/footer-gradient.svg" alt="footer" width="100%"/>
+  <p style="color: #8B949E;">© 2023 Zabih Keraam | Made with ❤️ and ☕</p>
+  <img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
