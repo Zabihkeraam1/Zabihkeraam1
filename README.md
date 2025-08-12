@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;Problem+Solver;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;API+Specialist;Continuous+Learner" />
 </h1>
 
 <div align="center">
@@ -70,6 +70,7 @@
   <p>
     <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
     <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
     <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
   </p>
@@ -103,17 +104,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Advanced Kubernetes"/>
         <br>Advanced Kubernetes
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="GitOps with ArgoCD"/>
         <br>GitOps with ArgoCD
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="Advanced React"/>
         <br>Advanced React Patterns
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
+        <br>FastAPI Optimization
       </td>
     </tr>
   </table>
@@ -126,11 +131,12 @@
 - 🚀 Master **Kubernetes** and cloud-native technologies
 - 🛠️ Achieve **AWS certifications** and expand cloud expertise
 - 💻 Combine DevOps and fullstack skills to build **end-to-end solutions**
+- 🏗️ Develop **high-performance APIs** with FastAPI
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to collaborating on exciting projects or discussing DevOps and web development. Feel free to reach out!</p>
+  <p>I'm always open to collaborating on exciting projects or discussing DevOps, API development, and web technologies. Feel free to reach out!</p>
   
   <a href="mailto:keraamzabih@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -140,6 +146,9 @@
   </a>
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/Zabihkeraam1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
