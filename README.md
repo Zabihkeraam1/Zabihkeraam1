@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;Problem+Solver;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -14,36 +14,39 @@
 
 <div align="center">
   <a href="mailto:keraamzabih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-keraamzabih@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-keraamzabih@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://af.linkedin.com/in/zabih-keraam">
-    <img src="https://img.shields.io/badge/LinkedIn-Zabih_Keraam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Zabih_Keraam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://zabih-keraam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-zabih--keraam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-zabih--keraam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
+---
+
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-- 🛠️ **DevOps Engineer** specializing in CI/CD pipelines, infrastructure automation, and cloud solutions
-- 🌱 Currently learning **Motion Design for the Web**, **Vistad**, and exploring new frontiers in web development
-- 🎯 **Goals**: To become a leading innovator in tech while keeping my sense of humor intact
-- 💡 I enjoy solving complex problems and turning ideas into reality
-- 🌍 Based in Afghanistan, coding for the world
-- ⚡ Fun fact: I debug code faster with coffee ☕
+- 🔧 **DevOps Engineer** focused on CI/CD, infrastructure-as-code, and cloud-native solutions  
+- 🌱 Expanding into **Motion Design for the Web**, **Vistad**, and advanced frontend frameworks  
+- 🎯 Passionate about **innovation, automation, and scalable architecture**  
+- 💡 Problem-solver who turns complex ideas into clean, efficient code  
+- 🌍 Based in Afghanistan, building solutions for a global audience  
+- ☕ **Fun fact**: I debug faster with a cup of strong Afghan coffee  
 
-<br/>
-<br/>
+<br clear="right"/>
 
-## 💻 Tech Stack
+---
 
-<div align="center">
-  <h3>DevOps & Cloud</h3>
+## 💼 Tech Stack
+
+### 🛠️ DevOps & Cloud
+<div align="left">
   <p>
     <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
     <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/></a>
@@ -55,8 +58,10 @@
     <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="40" height="40"/></a>
     <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40"/></a>
   </p>
+</div>
 
-  <h3>Frontend</h3>
+### 🖥️ Frontend
+<div align="left">
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
     <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a>
@@ -65,16 +70,20 @@
     <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>
     <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
   </p>
-  
-  <h3>Backend</h3>
+</div>
+
+### ⚙️ Backend
+<div align="left">
   <p>
     <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
     <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
     <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
   </p>
-  
-  <h3>Tools & Platforms</h3>
+</div>
+
+### 🧰 Tools & Platforms
+<div align="left">
   <p>
     <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
@@ -85,16 +94,27 @@
   </p>
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
+
+<details>
+  <summary>📊 Expand for More Stats</summary>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zabihkeraam1&theme=tokyonight" />
+  </p>
+</details>
+
+---
 
 ## 📚 Currently Learning
 
@@ -103,43 +123,49 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Advanced Kubernetes"/>
-        <br>Advanced Kubernetes
+        <br><sub><b>Advanced Kubernetes</b></sub>
       </td>
       <td align="center" width="33%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="GitOps with ArgoCD"/>
-        <br>GitOps with ArgoCD
+        <br><sub><b>GitOps with ArgoCD</b></sub>
       </td>
       <td align="center" width="33%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="Advanced React"/>
-        <br>Advanced React Patterns
+        <br><sub><b>Advanced React Patterns</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-## 🎯 Goals for 2025
+---
 
-- 🌐 Contribute to **open-source DevOps tools and projects**
-- 🔍 Build a **personal brand** in the DevOps and cloud community
-- 🚀 Master **Kubernetes** and cloud-native technologies
-- 🛠️ Achieve **AWS certifications** and expand cloud expertise
-- 💻 Combine DevOps and fullstack skills to build **end-to-end solutions**
+## 🎯 2025 Goals
 
-## 📫 Let's Connect!
+- 🌐 Contribute to **open-source DevOps tools** (e.g., Kubernetes, ArgoCD, Terraform)
+- 🔍 Build a **recognized personal brand** in the DevOps & cloud community
+- 🚀 Master **Kubernetes** and **cloud-native ecosystems**
+- 🛠️ Earn **AWS certifications** (e.g., AWS Certified DevOps Engineer)
+- 💻 Deliver **end-to-end fullstack applications** with robust CI/CD pipelines
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
-  <p>I'm always open to collaborating on exciting projects or discussing DevOps and web development. Feel free to reach out!</p>
+  <p>I'm always open to collaborating on exciting projects, discussing DevOps best practices, or mentoring aspiring engineers.</p>
   
   <a href="mailto:keraamzabih@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://af.linkedin.com/in/zabih-keraam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/zabih_keraam">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
