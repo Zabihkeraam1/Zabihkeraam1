@@ -95,10 +95,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" height="180" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Zabihkeraam1&theme=onedark&row=2&column=4" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br/>
