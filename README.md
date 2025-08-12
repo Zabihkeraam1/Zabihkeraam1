@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Senior+Fullstack+Engineer;DevOps+Specialist;Cloud+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zabih+Keraam!;Fullstack+%26+DevOps+Engineer;Problem+Solver;Continuous+Learner" />
 </h1>
 
 <div align="center">
-  <p>🎓 B.Sc. Computer Science | Kabul Polytechnic University</p>
-  <p>💼 Professional Experience: 4+ Years in Fullstack Development & DevOps</p>
-  <p>🌐 Cloud-Native Solutions Architect | CI/CD Pipeline Expert</p>
+  <p>🎓 B.Sc. in Computer Science @ Kabul Polytechnic University, Afghanistan</p>
+  <p>💻 Passionate Fullstack & DevOps Engineer | Creating bugs since 2020 (and fixing them too!)</p>
+  <p>🚀 Building and deploying the web, one line of code at a time</p>
 </div>
 
 <div align="center">
@@ -20,73 +20,72 @@
     <img src="https://img.shields.io/badge/LinkedIn-Zabih_Keraam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://zabih-keraam.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Professional_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://github.com/Zabihkeraam1?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View_My_Work-6e5494?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-zabih--keraam.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-## 🚀 Professional Profile
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-Results-driven **Fullstack Engineer** and **DevOps Specialist** with extensive experience in designing, implementing, and maintaining scalable cloud-native applications and infrastructure. Passionate about optimizing development workflows through CI/CD automation and infrastructure-as-code.
-
-**Core Competencies:**
-- ☁️ Cloud Architecture (AWS, GCP)
-- 🛠️ Infrastructure as Code (Terraform, Ansible)
-- 🔄 CI/CD Pipeline Design & Implementation
-- 🐳 Containerization & Orchestration (Docker, Kubernetes)
-- 🚀 Fullstack Development (React, Node.js, TypeScript)
-- 📊 Monitoring & Observability (Prometheus, Grafana)
-
-**Professional Philosophy:**  
-*"Building resilient systems that scale elegantly while maintaining developer productivity and operational efficiency."*
+- 🛠️ **DevOps Engineer** specializing in CI/CD pipelines, infrastructure automation, and cloud solutions
+- 🌱 Currently learning **Motion Design for the Web**, **Vistad**, and exploring new frontiers in web development
+- 🎯 **Goals**: To become a leading innovator in tech while keeping my sense of humor intact
+- 💡 I enjoy solving complex problems and turning ideas into reality
+- 🌍 Based in Afghanistan, coding for the world
+- ⚡ Fun fact: I debug code faster with coffee ☕
 
 <br/>
 <br/>
 
-## 💻 Technical Expertise
+## 💻 Tech Stack
 
 <div align="center">
-  
-### **Cloud & DevOps Stack**
-  
-| Category       | Technologies                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| **Cloud**      | AWS (EC2, S3, Lambda, EKS), GCP, Azure Fundamentals                        |
-| **IaC**        | Terraform, CloudFormation, Pulumi                                          |
-| **CI/CD**      | Jenkins, GitHub Actions, ArgoCD, CircleCI                                  |
-| **Containers** | Docker, Kubernetes, Helm, Istio                                            |
-| **Monitoring** | Prometheus, Grafana, ELK Stack, Datadog                                    |
-| **Config Mgmt**| Ansible, Chef, Puppet                                                      |
+  <h3>DevOps & Cloud</h3>
+  <p>
+    <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
+    <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/></a>
+    <a href="https://terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/></a>
+    <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/></a>
+    <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a>
+    <a href="https://www.ansible.com/"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/></a>
+    <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="40" height="40"/></a>
+    <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40"/></a>
+  </p>
 
-### **Development Stack**
+  <h3>Frontend</h3>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a>
+    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
+  </p>
   
-| Category       | Technologies                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| **Frontend**   | React, Next.js, TypeScript, TailwindCSS, Redux                             |
-| **Backend**    | Node.js, Express, NestJS, Python (Django, Flask)                           |
-| **Databases**  | MongoDB, PostgreSQL, MySQL, Redis                                          |
-| **Mobile**     | React Native (Expo)                                                        |
-| **Testing**    | Jest, Cypress, Selenium, Mocha/Chai                                        |
-
+  <h3>Backend</h3>
+  <p>
+    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
+    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
+  </p>
+  
+  <h3>Tools & Platforms</h3>
+  <p>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
+    <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" height="40"/></a>
+    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
+    <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
+  </p>
 </div>
 
-<br/>
-
-## 🏆 Professional Achievements
-
-- **Infrastructure Optimization**: Reduced cloud costs by 40% through right-sizing and auto-scaling implementations
-- **CI/CD Implementation**: Designed and deployed a GitOps workflow reducing deployment times by 75%
-- **Kubernetes Migration**: Led migration of legacy systems to Kubernetes, improving scalability and uptime
-- **Security Enhancements**: Implemented comprehensive security scanning in CI pipeline, reducing vulnerabilities by 90%
-
-<br/>
-
+## 📊 GitHub Stats
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -108,96 +107,53 @@ Results-driven **Fullstack Engineer** and **DevOps Specialist** with extensive e
 
 <br/>
 
-## 🛠️ Recent Projects
+## 📚 Currently Learning
 
 <div align="center">
-  
-| Project | Description | Technologies | Link |
-|---------|-------------|--------------|------|
-| **Cloud Migration Framework** | Automated migration toolkit for legacy systems to Kubernetes | Terraform, Ansible, Kubernetes | [GitHub](https://github.com/example) |
-| **DevSecOps Pipeline** | Integrated security scanning in CI/CD workflow | Jenkins, SonarQube, Trivy | [GitHub](https://github.com/example) |
-| **Microservices Dashboard** | Monitoring solution for distributed systems | React, Node.js, Prometheus | [Live Demo](https://example.com) |
-  
-</div>
-
-<br/>
-
-## 📚 Continuous Learning
-
-<div align="center">
-  <h3>Currently Mastering</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="K8s"/>
-        <br>Kubernetes<br>Certification
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/>
-        <br>AWS Solutions<br>Architect
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go"/>
-        <br>Go Programming<br>for DevOps
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust"/>
-        <br>Rust for<br>Systems Programming
-      </td>
-    </tr>
-  </table>
-  
-  <h3>Professional Certifications</h3>
-  
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="48" height="48" alt="CKAD"/>
-        <br>CKAD (In Progress)
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Advanced Kubernetes"/>
+        <br>Advanced Kubernetes
       </td>
       <td align="center" width="33%">
-        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="48" height="48" alt="AWS"/>
-        <br>AWS Certified (Target)
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="GitOps with ArgoCD"/>
+        <br>GitOps with ArgoCD
       </td>
       <td align="center" width="33%">
-        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="48" height="48" alt="Terraform"/>
-        <br>Terraform Certified
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="Advanced React"/>
+        <br>Advanced React Patterns
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+## 🎯 Goals for 2025
 
-## 🎯 2025 Professional Goals
+- 🌐 Contribute to **open-source DevOps tools and projects**
+- 🔍 Build a **personal brand** in the DevOps and cloud community
+- 🚀 Master **Kubernetes** and cloud-native technologies
+- 🛠️ Achieve **AWS certifications** and expand cloud expertise
+- 💻 Combine DevOps and fullstack skills to build **end-to-end solutions**
 
-- [ ] Achieve **Certified Kubernetes Administrator (CKA)** certification
-- [ ] Publish **technical articles** on DevOps best practices (Target: 12 articles)
-- [ ] Contribute to **3+ open-source** DevOps tools
-- [ ] Develop **cloud cost optimization** framework
-- [ ] Mentor **junior engineers** in DevOps practices
-
-<br/>
-
-## 📫 Professional Contact
+## 📫 Let's Connect!
 
 <div align="center">
-  <p>For collaboration opportunities, consulting inquiries, or technical discussions:</p>
+  <p>I'm always open to collaborating on exciting projects or discussing DevOps and web development. Feel free to reach out!</p>
   
   <a href="mailto:keraamzabih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://af.linkedin.com/in/zabih-keraam">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://calendly.com/your-link">
-    <img src="https://img.shields.io/badge/Schedule_Meeting-Calendly-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendly"/>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=blueviolet&style=flat-square&label=Professional+Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zabih-keraam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
