@@ -76,22 +76,6 @@ fun_fact: "Creating bugs since 2020 (and fixing them too!)"
 </tr>
 </table>
 
-### 📚 Currently Learning
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/><br/><sub>Advanced K8s</sub></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40"/><br/><sub>ArgoCD</sub></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/><sub>PyTorch</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/LLM-Engineering-purple?style=flat-square" height="40"/><br/><sub>LLM Eng.</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/MLOps-orange?style=flat-square" height="40"/><br/><sub>MLOps</sub></td>
-    </tr>
-  </table>
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="center">
