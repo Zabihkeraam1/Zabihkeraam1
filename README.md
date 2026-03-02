@@ -25,7 +25,7 @@
 ```yaml
 name: Zabih Keraam
 location: Afghanistan 🇦🇫
-current_focus:  ML/AI | DevOps | Fullstack
+current_focus: ML/AI | DevOps | Fullstack
 learning: LLM Engineering, Advanced K8s, MLOps
 hobbies: Debugging with coffee ☕, Solving complex problems
 fun_fact: "Creating bugs since 2020 (and fixing them too!)"
@@ -35,46 +35,80 @@ fun_fact: "Creating bugs since 2020 (and fixing them too!)"
 
 ### 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td valign="top" width="33%">
 
-#### ☁️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,githubactions,ansible,prometheus,grafana&perline=5" />
-</p>
+### ☁️ DevOps & Cloud
 
-#### 🤖 AI/ML & Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&perline=5" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=probot&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square&logo=databricks&logoColor=white" height="28"/>
-</p>
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="left" alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Ansible" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+
+<br clear="left"/>
 
 </td>
-<td width="50%">
+<td valign="top" width="33%">
 
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind&perline=5" />
-</p>
+### 🎨 Frontend
 
-#### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres&perline=5" />
-</p>
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 
-#### 🔧 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,bash,figma,postman&perline=5" />
-</p>
+<br clear="left"/>
+
+### ⚙️ Backend
+
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<br clear="left"/>
+
+</td>
+<td valign="top" width="34%">
+
+### 🤖 AI/ML & Data
+
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="LangChain" width="30px" src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3C" />
+<img align="left" alt="OpenAI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" />
+<img align="left" alt="Hugging Face" width="30px" src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E" />
+
+<br clear="left"/>
+
+### 🔧 Tools
+
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+
+<br clear="left"/>
 
 </td>
 </tr>
 </table>
+
+---
 
 ### 🤝 Let's Connect!
 
