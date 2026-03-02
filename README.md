@@ -76,32 +76,6 @@ fun_fact: "Creating bugs since 2020 (and fixing them too!)"
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabihkeraam1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zabihkeraam1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&hide_border=true" width="95%" />
-</p>
-
----
-
-### 🎯 2025 Goals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML/AI-Engineer-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
 ### 📚 Currently Learning
 
 <p align="center">
