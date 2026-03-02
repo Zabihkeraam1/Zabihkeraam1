@@ -25,8 +25,8 @@
 ```yaml
 name: Zabih Keraam
 location: Afghanistan 🇦🇫
-current_focus: DevOps | Fullstack | ML/AI
-learning: Advanced K8s, LLM Engineering, MLOps
+current_focus:  ML/AI | DevOps | Fullstack
+learning: LLM Engineering, Advanced K8s, MLOps
 hobbies: Debugging with coffee ☕, Solving complex problems
 fun_fact: "Creating bugs since 2020 (and fixing them too!)"
 ```
