@@ -9,7 +9,7 @@
 <p align="center">
   <em>B.Sc. Computer Science @ <strong>Kabul Polytechnic University</strong></em>
   <br/>
-  <em>Building & deploying the web, one commit at a time 🚀</em>
+  <em>Architecting intelligent systems at scale — from models to production 🧠</em>
 </p>
 
 <p align="center">
@@ -54,19 +54,11 @@ fun_fact: "Creating bugs since 2020 (and fixing them too!)"
 
 #### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&perline=9" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zabihkeraam1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zabihkeraam1&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40"/>
 </p>
 
 ---
