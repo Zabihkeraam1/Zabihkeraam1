@@ -29,8 +29,8 @@ name: Zabih Keraam
 location: Afghanistan 🇦🇫
 current_focus: ML/AI | DevOps | Fullstack Architecture
 learning: LLM Engineering, Advanced Kubernetes, MLOps
-hobbies: ☕ Coffee-fueled debugging, System Design
-fun_fact: "Creating bugs since 2020 (and fixing them too!)"
+hobbies: Coffee-fueled debugging, System Design
+fun_fact: Creating bugs since 2020 (and fixing them too!)
 ```
 
 ---
